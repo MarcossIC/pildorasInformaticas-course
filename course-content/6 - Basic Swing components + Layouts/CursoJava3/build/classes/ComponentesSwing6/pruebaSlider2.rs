@@ -1,0 +1,4 @@
+ComponentesSwing6.Panel2$1
+ComponentesSwing6.Marco2
+ComponentesSwing6.pruebaSlider2
+ComponentesSwing6.Panel2

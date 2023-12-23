@@ -1,0 +1,4 @@
+ComponentesSwing2.Panel1
+ComponentesSwing2.Panel1$GestionB
+ComponentesSwing2.Marco1
+ComponentesSwing2.pruebaTextArea

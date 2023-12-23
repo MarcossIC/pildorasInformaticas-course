@@ -1,0 +1,4 @@
+ComponentesSwing.Marco1
+ComponentesSwing.Panel1$Rtxt
+ComponentesSwing.pruebaTextField
+ComponentesSwing.Panel1
